@@ -1,0 +1,20 @@
+whit score: 4 black score: 6
+data-size 592
+whit score: 10 black score: 10
+data-size 560
+whit score: 15 black score: 15
+data-size 628
+whit score: 18 black score: 22
+data-size 580
+whit score: 23 black score: 27
+data-size 620
+whit score: 28 black score: 32
+data-size 596
+whit score: 30 black score: 40
+data-size 584
+whit score: 35 black score: 45
+data-size 604
+whit score: 40 black score: 50
+data-size 604
+whit score: 43 black score: 57
+data-size 604

@@ -1,0 +1,5 @@
+Total number of nodes generate: 1896
+Total number of nodes generate: 9751
+Total number of nodes generate: 21
+Total number of nodes generate: 622
+Total number of nodes generate: 264
